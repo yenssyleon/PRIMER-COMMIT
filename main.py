@@ -22,3 +22,4 @@ print("el ángulo en radianes es:")
 #Vamos a dejar un espacio para que se vea bonito
 #Aunque en la consola no se ve bonito :p
 print(resultado)
+# Se logró, ahora, subamoslo a github :)
